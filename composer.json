@@ -1,0 +1,25 @@
+{
+    "name": "blackboxcode/pando-person-bundle",
+    "description": "Pando PersonBundle",
+    "type": "symfony-bundle",
+    "authors": [
+        {
+            "name": "Black Box Code",
+            "email": "contact@blackboxcode.com"
+        }
+    ],
+    "keywords": ["pando person bundle"],
+    "license": ["LGPL-3.0"],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {"BlackBoxCode\\Pando\\PersonBundle\\": ""}
+    },
+    "repositories": [{
+    }],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "develop"
+        }
+    }
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace BlackBoxCode\Pando\Entity;
+namespace BlackBoxCode\Pando\Bundle\PersonBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 

@@ -11,25 +11,10 @@
     "keywords": ["pando person bundle"],
     "license": ["LGPL-3.0"],
     "require": {
-        "blackboxcode/pando-user-bundle": "1.0.0",
-        "blackboxcode/pando-contact-info-bundle": "1.0.0"
+        "blackboxcode/pando-user-bundle": "dev-master",
+        "blackboxcode/pando-contact-info-bundle": "dev-master"
     },
     "autoload": {
         "psr-4": {"BlackBoxCode\\Pando\\Bundle\\PersonBundle\\": ""}
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/BlackBoxRepo/PandoUserBundle"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/BlackBoxRepo/PandoContactInfoBundle"
-        }
-    ],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "develop"
-        }
     }
 }

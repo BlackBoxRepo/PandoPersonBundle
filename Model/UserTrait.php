@@ -1,5 +1,5 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\PersonBundle\Model;
+namespace BlackBoxCode\Pando\PersonBundle\Model;
 
 use Doctrine\ORM\Mapping as ORM;
 

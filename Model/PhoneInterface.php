@@ -1,7 +1,7 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\PersonBundle\Model;
+namespace BlackBoxCode\Pando\PersonBundle\Model;
 
-interface PhoneInterface extends \BlackBoxCode\Pando\Bundle\ContactInfoBundle\Model\PhoneInterface
+interface PhoneInterface extends \BlackBoxCode\Pando\ContactInfoBundle\Model\PhoneInterface
 {
     /**
      * @return PersonInterface

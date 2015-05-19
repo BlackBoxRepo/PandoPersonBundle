@@ -20,6 +20,6 @@
         "blackboxcode/pando-contact-info-bundle": "dev-master"
     },
     "autoload": {
-        "psr-4": {"BlackBoxCode\\Pando\\Bundle\\PersonBundle\\": ""}
+        "psr-4": {"BlackBoxCode\\Pando\\PersonBundle\\": ""}
     }
 }

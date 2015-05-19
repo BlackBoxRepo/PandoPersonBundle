@@ -1,7 +1,7 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\PersonBundle\Model;
+namespace BlackBoxCode\Pando\PersonBundle\Model;
 
-use BlackBoxCode\Pando\Bundle\BaseBundle\Model\IdInterface;
+use BlackBoxCode\Pando\BaseBundle\Model\IdInterface;
 use Doctrine\Common\Collections\ArrayCollection;
 
 interface PersonInterface extends IdInterface

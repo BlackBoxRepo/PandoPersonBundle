@@ -1,6 +1,6 @@
 <?php
 
-namespace BlackBoxCode\Pando\Bundle\PersonBundle\DependencyInjection;
+namespace BlackBoxCode\Pando\PersonBundle\DependencyInjection;
 
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 use Symfony\Component\Config\FileLocator;
@@ -12,7 +12,7 @@ use Symfony\Component\DependencyInjection\Loader;
  *
  * To learn more see {@link http://symfony.com/doc/current/cookbook/bundles/extension.html}
  */
-class BlackBoxCodePandoBundlePersonExtension extends Extension
+class BlackBoxCodePandoPersonExtension extends Extension
 {
     /**
      * {@inheritdoc}

@@ -1,7 +1,7 @@
 <?php
-namespace BlackBoxCode\Pando\Bundle\PersonBundle\Model;
+namespace BlackBoxCode\Pando\PersonBundle\Model;
 
-interface UserInterface extends \BlackBoxCode\Pando\Bundle\UserBundle\Model\UserInterface
+interface UserInterface extends \BlackBoxCode\Pando\UserBundle\Model\UserInterface
 {
     /**
      * @return PersonInterface
